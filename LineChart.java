@@ -1,8 +1,5 @@
 //Author Name: Kylie Fauquher
-//Date: 02/20/2022
-//Program Name: Fauquher_LineChart
-//Purpose: A default line chart that supports multiple lines, use as needed!
-
+//Date: 02/2022
 
 package line;
 
